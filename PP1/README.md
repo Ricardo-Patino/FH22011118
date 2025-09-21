@@ -6,6 +6,10 @@
 
 ## Comandos utilizados (CLI)
 ```bash
+
+# Crear directorio
+mkdir PP1
+
 # Crear solución
 dotnet new sln -n PP1
 
