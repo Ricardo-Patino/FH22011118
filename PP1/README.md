@@ -17,3 +17,9 @@ dotnet sln add PP1App
 
 # Ejecutar el programa
 dotnet run --project PP1App
+
+# compilar el programa
+dotnet build
+
+# correr el programa
+dotnet run 
