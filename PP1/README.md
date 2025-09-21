@@ -29,3 +29,10 @@ dotnet run
 
 # correr el proyecto
  dotnet run
+
+
+<img width="1488" height="493" alt="image" src="https://github.com/user-attachments/assets/d0b7f520-1af8-4921-a40c-3c52013645db" />
+<img width="1499" height="363" alt="image" src="https://github.com/user-attachments/assets/6a037839-72aa-49b6-ae59-7b305902f2e5" />
+
+
+
