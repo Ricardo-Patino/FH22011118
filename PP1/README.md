@@ -26,3 +26,6 @@ dotnet run
 
 # cambiamos al proyecto
  cd PP1App/
+
+# correr el proyecto
+ dotnet run
