@@ -22,4 +22,7 @@ dotnet run --project PP1App
 dotnet build
 
 # correr el programa
-dotnet run 
+dotnet run
+
+# cambiamos al proyecto
+ cd PP1App/
