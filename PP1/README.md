@@ -10,7 +10,7 @@
 dotnet new sln -n PP1
 
 # Crear proyecto de consola
-dotnet new console -n PP1App
+dotnet new console -n PP1App -f net8.0
 
 # Agregar proyecto a la solución
 dotnet sln add PP1App
