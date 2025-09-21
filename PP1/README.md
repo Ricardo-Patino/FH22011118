@@ -13,7 +13,7 @@ dotnet new sln -n PP1
 dotnet new console -n PP1App
 
 # Agregar proyecto a la solución
-dotnet sln PP1.sln add PP1App/PP1App.csproj
+dotnet sln add PP1App
 
 # Ejecutar el programa
 dotnet run --project PP1App
