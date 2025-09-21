@@ -57,7 +57,7 @@ https://chatgpt.com/share/68d06a59-6a08-800b-bdc1-69e15ac718cc
 
 <p>
 1. ¿Por qué difieren los resultados entre métodos y estrategias?
-a) Diferencias entre fórmula y bucle
+a - Diferencias entre fórmula y bucle
 
 Fórmula (Gauss):
 Hace la multiplicación n _ (n+1) primero. Esa multiplicación puede desbordar (overflow) en int aunque el resultado final (dividido entre 2) todavía quepa.
@@ -72,7 +72,7 @@ Resultado: el bucle aguanta más que la fórmula en int.
 
 </p>
 <p>
-b) Diferencias entre ascendente y descendente
+b - Diferencias entre ascendente y descendente
 
 El orden en que sumás también importa cuando hay overflow o pérdida de precisión:
 
@@ -94,7 +94,7 @@ if (n == 0) return 0;
 return n + SumRec(n - 1);
 }
 
-a) Problemas prácticos
+a - Problemas prácticos
 
 Stack Overflow (de la pila de llamadas):
 Cada llamada recursiva guarda un frame en la pila. Para n grandes (ej. millones), la pila del programa se desborda mucho antes de que se llegue al límite de int.
@@ -105,7 +105,7 @@ Cada llamada recursiva guarda un frame en la pila. Para n grandes (ej. millones)
 Overflow aritmético (igual que antes):
 Incluso si la recursión llegara lejos, la suma acumulada se enfrenta a los mismos límites de int → el resultado se desbordaría como con el bucle.
 
-b) Comparación entre ascendente y descendente con recursión
+b - Comparación entre ascendente y descendente con recursión
 
 En realidad, SumRec definido como arriba siempre recorre de n hacia 0, es decir, equivalente a la estrategia descendente.
 Podrías hacer una variante “ascendente”:
