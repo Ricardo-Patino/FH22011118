@@ -51,7 +51,10 @@ https://stackoverflow.com/questions/39709453/c-sharp-recursive-method-that-recei
 <img width="1499" height="363" alt="image" src="https://github.com/user-attachments/assets/6a037839-72aa-49b6-ae59-7b305902f2e5" />
 </br>
 <img width="1499" height="363" alt="image" src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Racha/OneDrive%20-%20Universidad%20Fid%C3%A9litas/Escritorio/resultado.jpg?version%3D1758491513968" />
+
+![Resultadoext](resultado.jpg)
 </br>
+
 ## Prompts.
 
 https://chatgpt.com/share/68d06a59-6a08-800b-bdc1-69e15ac718cc
