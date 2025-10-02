@@ -37,7 +37,7 @@ https://www.markdownguide.org/basic-syntax
 
 ## Respuesta a las preguntas.
 
-####¿Cuál es el número que resulta al multiplicar, si se introducen los valores máximos permitidos en a y b?
+#### ¿Cuál es el número que resulta al multiplicar, si se introducen los valores máximos permitidos en a y b?
 
 Al ser cadenas de 8 caracteres binarios, es decir, un byte completo. El valor máximo en binario de 8 bits es: 255 en decimal.
 - a = 11111111
@@ -46,7 +46,7 @@ Al ser cadenas de 8 caracteres binarios, es decir, un byte completo. El valor m�
 Esto equivale a 255 en decimal para ambos.
 255 × 255 = 65,025
 
-####¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
+#### ¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
 
 <p>
   Sí, es totalmente posible y recomendable realizar las operaciones en otra capa para mantener una arquitectura limpia y desacoplada. En el patrón MVC, las capas ideales para realizar las operaciones son:
