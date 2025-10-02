@@ -50,7 +50,10 @@ Esto equivale a 255 en decimal para ambos.
 #### 2. ¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
 
 <p>
-  Sí, es totalmente posible y recomendable realizar las operaciones en otra capa para mantener una arquitectura limpia y desacoplada. En el patrón MVC, las capas ideales para realizar las operaciones son:
+  Sí, es totalmente posible y recomendable realizar las operaciones en otra capa para mantener una arquitectura limpia y desacoplada. En el patrón MVC.
 
+  La realización de operaciones matemáticas, transformaciones de sistemas numéricos y validaciones complejas debe hacerse en la capa de servicios o lógica de negocio de la arquitectura. En ASP.NET Core MVC,  corresponde a la clase 'Service' o clases utilitarias independientes del controlador y la vista.
+
+Por lo que, la capa idónea para centralizar estas operaciones es la "service layer", que puede añadirse mediante inyección de dependencias.
 </p>
 
