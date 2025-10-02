@@ -29,8 +29,10 @@ aqui va el código
 
 ## Páginas web donde halló posibles soluciones.
 
-https://www.markdownguide.org/basic-syntax
-
+- https://www.markdownguide.org/basic-syntax
+- https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-9.0
+- https://dotnettutorials.net/lesson/data-annotations-in-asp-net-core-mvc
+- https://weblogs.asp.net/ricardoperes/net-8-data-annotations-validation
 
 ## Snippets de código.
 
@@ -39,12 +41,12 @@ https://www.markdownguide.org/basic-syntax
 
 #### ¿Cuál es el número que resulta al multiplicar, si se introducen los valores máximos permitidos en a y b?
 
-Al ser cadenas de 8 caracteres binarios, es decir, un byte completo. El valor máximo en binario de 8 bits es: 255 en decimal.
+El número más alto sería> 65025. Al ser cadenas de 8 caracteres binarios, es decir, un byte completo. El valor máximo en binario de 8 bits es: 255 en decimal.
 - a = 11111111
 - b = 11111111
 
 Esto equivale a 255 en decimal para ambos.
-255 × 255 = 65,025
+255 × 255 = 65025
 
 #### ¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
 
