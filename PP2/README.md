@@ -39,8 +39,7 @@ aqui va el código
 
 ## Respuesta a las preguntas.
 
-#### ¿Cuál es el número que resulta al multiplicar, si se introducen los valores máximos permitidos en a y b?
-
+#### 1. ¿Cuál es el número que resulta al multiplicar, si se introducen los valores máximos permitidos en a y b?
 El número más alto sería> 65025. Al ser cadenas de 8 caracteres binarios, es decir, un byte completo. El valor máximo en binario de 8 bits es: 255 en decimal.
 - a = 11111111
 - b = 11111111
@@ -48,7 +47,7 @@ El número más alto sería> 65025. Al ser cadenas de 8 caracteres binarios, es 
 Esto equivale a 255 en decimal para ambos.
 255 × 255 = 65025
 
-#### ¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
+#### 2. ¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
 
 <p>
   Sí, es totalmente posible y recomendable realizar las operaciones en otra capa para mantener una arquitectura limpia y desacoplada. En el patrón MVC, las capas ideales para realizar las operaciones son:
