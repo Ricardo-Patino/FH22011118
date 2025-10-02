@@ -33,3 +33,6 @@ https://www.markdownguide.org/basic-syntax
 
 
 ## Snippets de código.
+
+
+## Respuesta a las preguntas.
