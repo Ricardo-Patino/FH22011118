@@ -70,7 +70,8 @@ dotnet run
 <img width="1919" height="1032" alt="Creation codes" src="https://github.com/user-attachments/assets/3dc79535-72d7-4d5f-8774-d4ca7040e14b" />
 
 ###BinaryInputModel.cs
-<img width="588" height="589" alt="image" src="https://github.com/user-attachments/assets/d3db6a81-97a9-4473-9a4f-b10e5f6cba14" />
+
+<img width="1919" height="1032" alt="BinaryInpuModel" src="https://github.com/user-attachments/assets/d3db6a81-97a9-4473-9a4f-b10e5f6cba14" />
 
 ###
 
