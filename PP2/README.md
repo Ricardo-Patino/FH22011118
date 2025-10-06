@@ -73,7 +73,15 @@ dotnet run
 
 <img width="1919" height="1032" alt="BinaryInpuModel" src="https://github.com/user-attachments/assets/d3db6a81-97a9-4473-9a4f-b10e5f6cba14" />
 
-###
+###Home Controller
+
+<img width="763" height="876" alt="Home Controller" src="https://github.com/user-attachments/assets/148a1df6-e62f-45ac-a787-131451a69ee3" />
+
+
+###Index
+
+<img width="690" height="835" alt="image" src="https://github.com/user-attachments/assets/7ddcaa67-f7a1-4a92-90fe-d29047afae4e" />
+
 
 
 ## Respuesta a las preguntas.
