@@ -24,7 +24,35 @@ Las respuestas a las siguientes preguntas:
 ## Comandos utilizados (CLI)
 
 ```bash
-aqui va el código
+#crear carpeta
+mkdir
+
+# Crear solución
+dotnet new sln -n PP2
+
+# Crear proyecto de consola
+dotnet new console -n PP2App -f net8.0
+
+# Agregar proyecto a la solución
+dotnet sln add PP2App
+
+# Ejecutar el programa
+dotnet run --project PP2App
+
+# compilar el programa
+dotnet build
+
+# correr el programa
+dotnet run
+
+# cambiamos al proyecto
+ cd PP1App/
+
+# correr el proyecto
+ dotnet run
+
+# abrir VSC desde consola
+ code .
 ```
 
 ## Páginas web donde halló posibles soluciones.
@@ -35,6 +63,16 @@ aqui va el código
 - https://weblogs.asp.net/ricardoperes/net-8-data-annotations-validation
 
 ## Snippets de código.
+
+###GitBash Codes
+<img width="1243" height="777" alt="Creation codes" src="https://github.com/user-attachments/assets/55c5d47f-fcc1-4a1d-a529-a3331adafc17" />
+
+<img width="1919" height="1032" alt="Creation codes" src="https://github.com/user-attachments/assets/3dc79535-72d7-4d5f-8774-d4ca7040e14b" />
+
+###BinaryInputModel.cs
+<img width="588" height="589" alt="image" src="https://github.com/user-attachments/assets/d3db6a81-97a9-4473-9a4f-b10e5f6cba14" />
+
+###
 
 
 ## Respuesta a las preguntas.
