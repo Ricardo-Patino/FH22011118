@@ -94,6 +94,12 @@ El número más alto sería> 65025. Al ser cadenas de 8 caracteres binarios, es 
 Esto equivale a 255 en decimal para ambos.
 255 × 255 = 65025
 </br>
+
+
+<img width="1704" height="960" alt="image" src="https://github.com/user-attachments/assets/6e43ba94-2393-4cc2-94d2-bcec8be22d11" />
+
+
+
 </br>
 
 #### 2. ¿Es posible hacer las operaciones en otra capa? Si sí, ¿en cuál sería?
