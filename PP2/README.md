@@ -46,7 +46,7 @@ dotnet build
 dotnet run
 
 # cambiamos al proyecto
- cd PP1App/
+ cd PP2App/
 
 # correr el proyecto
  dotnet run
