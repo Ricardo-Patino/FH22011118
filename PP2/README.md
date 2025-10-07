@@ -76,7 +76,9 @@ dotnet run
 
 ###Web up and running
 
-<img width="1877" height="1038" alt="image" src="https://github.com/user-attachments/assets/006cd91d-efe1-4a79-a988-abf09d077330" />
+
+<img width="1756" height="972" alt="image" src="https://github.com/user-attachments/assets/b23ee283-d3b2-4169-8b5c-8ad44dd28384" />
+
 
 
 ## Respuesta a las preguntas.
