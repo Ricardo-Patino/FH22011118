@@ -45,6 +45,9 @@ dotnet run
 - https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation?view=aspnetcore-9.0
 - https://dotnettutorials.net/lesson/data-annotations-in-asp-net-core-mvc
 - https://weblogs.asp.net/ricardoperes/net-8-data-annotations-validation
+- https://dotnettutorials.net/lesson/viewdata-asp-net-core-mvc
+- https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/controller-methods-views?view=aspnetcore-9.0
+- https://learn.microsoft.com/en-us/dotnet/api/system.convert?view=net-8.0
 
 ## Snippets de código.
 
