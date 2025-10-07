@@ -58,16 +58,19 @@ dotnet run
 
 ###BinaryInputModel.cs
 
-<img width="1919" height="1032" alt="BinaryInpuModel" src="https://github.com/user-attachments/assets/d3db6a81-97a9-4473-9a4f-b10e5f6cba14" />
+<img width="903" height="690" alt="image" src="https://github.com/user-attachments/assets/1aa411a1-de43-40ca-88e2-3b996e3919d2" />
+
 
 ###Home Controller
 
-<img width="763" height="876" alt="Home Controller" src="https://github.com/user-attachments/assets/148a1df6-e62f-45ac-a787-131451a69ee3" />
+<img width="939" height="989" alt="image" src="https://github.com/user-attachments/assets/6ea97c31-91f5-4984-9b7e-3379bb7b905c" />
+
 
 
 ###Index
 
-<img width="690" height="835" alt="image" src="https://github.com/user-attachments/assets/7ddcaa67-f7a1-4a92-90fe-d29047afae4e" />
+<img width="655" height="959" alt="image" src="https://github.com/user-attachments/assets/8ff331a3-98e1-4a1a-a2ac-1eb46a7dc6cc" />
+
 
 ###dotnet run
 
