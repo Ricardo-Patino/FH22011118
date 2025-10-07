@@ -11,6 +11,9 @@
 #crear carpeta
 mkdir
 
+# abrir VSC desde consola
+ code .
+
 # Crear solución
 dotnet new sln -n PP2
 
@@ -35,8 +38,6 @@ dotnet run
 # correr el proyecto
  dotnet run
 
-# abrir VSC desde consola
- code .
 ```
 
 ## Páginas web donde halló posibles soluciones.
@@ -64,7 +65,6 @@ dotnet run
 ###Home Controller
 
 <img width="939" height="989" alt="image" src="https://github.com/user-attachments/assets/6ea97c31-91f5-4984-9b7e-3379bb7b905c" />
-
 
 
 ###Index
