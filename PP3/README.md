@@ -68,11 +68,14 @@ dotnet run
 
 #### 1) ¿Es posible enviar valores en el Body (por ejemplo, en el Form) del Request de tipo GET?
 <p>
-No, No es una buena práctica hacer esto y no debería hacerse. Aunque hay navegadores o herramientas que lo permiten, no es parte del estándar de HTTP y la mayoría de los servidores o frameworks (incluido ASP.NET Core), porque simplemente lo ignoran.
+No, en general no se deben enviar valores en el cuerpo (Body) de un método GET.<br>
+Aunque algunos clientes o navegadores podrían permitirlo, no es parte del estándar HTTP y la mayoría de los servidores lo ignoran completamente.
 <br>
-En los métodos GET, los datos deben enviarse por la URL, ya sea como parámetros de ruta o en la cadena de consulta (query string).
+El propósito del método GET es solicitar información, no enviar datos.<br>
+Por eso, en este tipo de petición los valores se envían por la URL, ya sea como parte de la ruta (Route) o usando la query string (por ejemplo, ?param=valor).<br>
+En los métodos GET, los datos deben enviarse por la URL, ya sea como parámetros de ruta o en la cadena de consulta (query string).<br>
 <br>
-El cuerpo (body) está pensado para métodos como POST, PUT o DELETE, que sí procesan información enviada desde el cliente hacia el servidor.
+Los métodos que sí usan el cuerpo del request son POST, PUT o DELETE, porque están diseñados para enviar o modificar datos en el servidor.
 </p>
 
 </br>
@@ -84,11 +87,12 @@ El cuerpo (body) está pensado para métodos como POST, PUT o DELETE, que sí pr
 
 Minimal API vs Controllers (ventajas y desventajas)
 </br>
-Minimal API es una forma más simple y directa de crear endpoints.</br></br>
-Su mayor ventaja es que requiere menos código y configuración, lo que la hace ideal para proyectos pequeños, microservicios o prototipos. Además, todo se define en un solo archivo (Program.cs), lo que facilita entender el flujo rápidamente.</br></br>
-Por otro lado, cuando el proyecto empieza a crecer, se vuelve más difícil de mantener y organizar, ya que no tiene la misma estructura modular ni las convenciones de los controladores tradicionales.
+Minimal API es una forma más sencilla y directa de crear endpoints.</br>
+Su gran ventaja es que permiten escribir menos código y comenzar un proyecto de forma muy rápida.
+Todo se define dentro del archivo Program.cs, lo que las hace ideales para proyectos pequeños, pruebas rápidas o microservicios donde no se necesita mucha estructura.</br>
+Sin embargo, cuando el proyecto crece, pueden volverse difíciles de mantener, porque no existe una separación clara entre lógica, validaciones y rutas. Además, tienen menos soporte para decoradores, filtros y atributos que los controladores tradicionales.</br></br>
+Por otro lado, usar Controllers (MVC o Web API) es más recomendable para aplicaciones grandes o con muchas rutas y capas.
 </br></br>
-En cambio, los Controllers (MVC o Web API) son más adecuados para aplicaciones grandes o con mucha lógica.
-Permiten separar responsabilidades, usar filtros, validaciones, middlewares personalizados y organizar mejor el código por capas.</br></br>
-La desventaja es que requieren más configuración y archivos, lo que puede sentirse más “pesado” para proyectos pequeños.
+Los controladores permiten una organización más limpia y modular, usando archivos separados para cada grupo de endpoints, lo que facilita las pruebas, el mantenimiento y la escalabilidad.</br>
+La desventaja es que requieren más configuración y estructura inicial, lo que puede parecer más pesado al inicio, pero a la larga ayuda a mantener el código ordenado.
 </p>
