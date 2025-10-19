@@ -84,11 +84,11 @@ El cuerpo (body) está pensado para métodos como POST, PUT o DELETE, que sí pr
 
 Minimal API vs Controllers (ventajas y desventajas)
 </br>
-Minimal API es una forma más simple y directa de crear endpoints.
-Su mayor ventaja es que requiere menos código y configuración, lo que la hace ideal para proyectos pequeños, microservicios o prototipos. Además, todo se define en un solo archivo (Program.cs), lo que facilita entender el flujo rápidamente.</br>
+Minimal API es una forma más simple y directa de crear endpoints.</br></br>
+Su mayor ventaja es que requiere menos código y configuración, lo que la hace ideal para proyectos pequeños, microservicios o prototipos. Además, todo se define en un solo archivo (Program.cs), lo que facilita entender el flujo rápidamente.</br></br>
 Por otro lado, cuando el proyecto empieza a crecer, se vuelve más difícil de mantener y organizar, ya que no tiene la misma estructura modular ni las convenciones de los controladores tradicionales.
-</br>
+</br></br>
 En cambio, los Controllers (MVC o Web API) son más adecuados para aplicaciones grandes o con mucha lógica.
-Permiten separar responsabilidades, usar filtros, validaciones, middlewares personalizados y organizar mejor el código por capas.</br>
+Permiten separar responsabilidades, usar filtros, validaciones, middlewares personalizados y organizar mejor el código por capas.</br></br>
 La desventaja es que requieren más configuración y archivos, lo que puede sentirse más “pesado” para proyectos pequeños.
 </p>
