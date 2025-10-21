@@ -55,6 +55,7 @@ dotnet run
 ## Snippets de código.
 
 ###GitBash Codes
+<img width="1850" height="974" alt="image" src="https://github.com/user-attachments/assets/f038dce4-aca1-4a24-8aa2-6b3f20a7cc93" />
 
 
 ###Web up and running
