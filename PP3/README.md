@@ -59,8 +59,19 @@ dotnet run
 
 ###Web up and running
 
+<img width="1736" height="763" alt="image" src="https://github.com/user-attachments/assets/d200e9f2-2589-4bdf-81c4-48bc1553d60f" />
+
+<img width="1884" height="1007" alt="image" src="https://github.com/user-attachments/assets/88a56505-9aff-449e-8217-0219cf46da88" />
 
 
+## INSPECT
+
+<img width="1884" height="1007" alt="image" src="https://github.com/user-attachments/assets/e9d27ce3-f8c4-4139-86d3-fcf8e1ab97ae" />
+
+
+## Consola levantada y suin errores
+
+<img width="1877" height="1017" alt="image" src="https://github.com/user-attachments/assets/d1bfb58b-9b2d-4d22-b5d2-e3096d5b0c88" />
 
 
 
