@@ -61,7 +61,6 @@ dotnet run
 
 <img width="1736" height="763" alt="image" src="https://github.com/user-attachments/assets/d200e9f2-2589-4bdf-81c4-48bc1553d60f" />
 
-<img width="1884" height="1007" alt="image" src="https://github.com/user-attachments/assets/88a56505-9aff-449e-8217-0219cf46da88" />
 
 
 ## INSPECT
