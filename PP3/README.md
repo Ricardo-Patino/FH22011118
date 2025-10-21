@@ -35,7 +35,7 @@ dotnet build
 dotnet run
 
 # cambiamos al proyecto
- cd PP2App/
+ cd PP3App/
 
 # correr el proyecto
  dotnet run
